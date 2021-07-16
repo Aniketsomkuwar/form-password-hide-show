@@ -1,0 +1,17 @@
+form i {
+    margin-left: -30px;
+    cursor: pointer;
+}
+.container{
+    display: block;
+    width: 500px;
+    margin:auto;
+    padding: 100px;
+    border: 1px solid black ;
+    border-radius: 60px;
+    margin-top: 200px;
+    background-color: rgba(165, 152, 152, 0.089);
+}
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
